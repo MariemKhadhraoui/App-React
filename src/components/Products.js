@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Product from "./Product";
 import products from "../products.json";
 import { Container, Row, Col } from "react-bootstrap";
